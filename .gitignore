@@ -1,0 +1,7 @@
+# Git Ignore for FSDL Projects
+.gemini/
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+*.log
